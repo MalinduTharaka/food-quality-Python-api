@@ -1,5 +1,6 @@
-flask
-opencv-python-headless
+Flask
+opencv-python
 numpy
 scikit-image
+scipy
 scikit-learn
